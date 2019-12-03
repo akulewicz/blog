@@ -179,6 +179,24 @@ blockquote {
     background-color: #000;
 }
 
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.pagination__item {
+    margin: 2px;
+    border: 1px solid black;
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.pagination__item--active {
+    background-color: black;
+    color: white;
+}
+
 .sidebar {
     width: 300px;
 }

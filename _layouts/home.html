@@ -2,15 +2,14 @@
 layout: default
 ---
 <div class="posts">
-        {%- for post in site.posts -%}
+        {%- for post in paginator.posts -%}
                 <article class="post">
                     <header class="post__header">
                         <a class="post__category" href="#">{{ post.categories }}</a>
                         <h2 class="post__title">{{ post.title }}</h2>
                         <p class="post__date">{{ post.date | date: "%d/%m/%Y" }}</p>
                         <div class="post__image-box">
-                            <img class="post__image post__image--featured" src="{{ post.image }}"
-                                alt="Zdjęcie ilustrujące post o Cross Duathlon Gdańsk">
+                            <img class="post__image post__image--featured" src="../{{ post.image }}">
                         </div>
                     </header>
                     <p class="post__content">{{ post.intro }}</p>
@@ -18,3 +17,29 @@ layout: default
                 </article>
         {%- endfor -%}
 </div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="pagination__item" href="{{ paginator.previous_page_path | relative_url }}">&laquo;</a>
+  {% else %}
+    <span class="pagination__item">&laquo;</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="pagination__item pagination__item--active">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a class="pagination__item" href="/">{{ page }}</a>
+    {% else %}
+      <a class="pagination__item" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="pagination__item" href="{{ paginator.next_page_path | relative_url }}">&raquo;</a>
+  {% else %}
+    <span class="pagination__item">&raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
