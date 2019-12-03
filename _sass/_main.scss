@@ -1,0 +1,363 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #353535;
+    font-weight: normal;
+}
+
+blockquote {
+    margin: 0;
+    padding: 5px 20px;
+    border-left: 5px solid #dfb29e;
+    font-style: italic;
+}
+
+.site-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/06/12/06/people-2591874_960_720.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 80px;
+}
+
+.site-header__title {
+    background-color: rgba(0, 0, 0, 0.253);
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 58px;
+    padding: 15px 0;
+}
+
+.site-header__link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navigation {
+    z-index: 5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.815);
+    width: 100%;
+}
+
+.navigation__list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.navigation__item {
+    padding-right: 25px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.navigation__switcher {
+    display: none;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+}
+
+.main {
+    width: 840px;
+    padding: 0 56px 0 0;
+}
+
+.post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.post__header {
+    text-align: center;
+    line-height: 26px;
+}
+
+.post__category {
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    color: #CE9175;
+    margin-bottom: 16px;
+}
+
+.post__title {
+    font-family: 'Roboto Slab', serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    margin: 0;
+}
+
+.post__date {
+    font-size: 14px;
+    color: rgb(152, 152, 152);
+    text-transform: uppercase;
+}
+
+.post__image-box {
+    overflow: hidden;
+    width: 100%;
+}
+.post__image {
+    width: 100%;
+}
+
+.post__image--featured {
+    transition: transform 3s;
+}
+
+.post__image--featured:hover {
+    transform: scale(1.1);
+}
+
+.post__content {
+    font-size: 1.05rem;
+    line-height: 150%;
+    text-align: justify;
+    color: #3f3f3f;
+}
+
+.post__hyperlink {
+    color: #499C64;
+    font-style: inherit;
+    font-weight: 500;
+}
+
+.post__hyperlink:hover {
+    color: #3D8254;
+}
+
+.post__link {
+    background-color: #ce9175;
+    color: #fff;
+    padding: 12px 16px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    word-spacing: 2px;
+    margin: 20px 0 40px 0;
+    transition: 0.3s;
+}
+
+.post__link:hover {
+    background-color: #000;
+}
+
+.sidebar {
+    width: 300px;
+}
+
+.widget {
+    border: 1px solid #d9d9d9;
+    padding: 16px;
+    margin-bottom: 24px;
+}
+
+.widget__title {
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding: 0 5px 16px 5px;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.author {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.author__photo {
+    width: 70%;
+    border-radius: 50%;
+    margin-bottom: 14px;
+}
+
+.author__name {
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+
+.author__description {
+    text-align: center;
+    line-height: 150%;
+    font-size: 14px;
+    margin: 0 0 32px 0;
+}
+
+.author__link {
+    padding: 10px 15px;
+    border: 1px solid #353535;
+    color: #353535;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.author__link:hover {
+    color: #CE9175;
+    border: 1px solid #CE9175;
+}
+
+.categories__list {
+    list-style: none;
+    padding: 0;
+}
+
+.categories__item {
+    padding: 12px 0;
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+.categories__link {
+    color: #666;
+    text-decoration: none;
+}
+
+.categories__link:hover {
+    color: #CE9175;
+}
+
+.gallery__photos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+
+.gallery__img {
+    width: 100%;
+}
+
+.site-footer {
+    background-color: #000;
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+}
+
+.top-button {
+    display: block;
+    position: fixed;
+    color: rgba(158, 131, 90, 0.479);
+    font-size: 50px;
+    bottom: 60px;
+    right: 50px;
+}
+
+@media (max-width: 1280px) {
+    .top-button {
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .main {
+        width: 100%;
+        padding: 0 0 0 0;
+    }
+
+    .sidebar {
+        width: 100%;
+    }
+}
+
+@media (max-width: 640px) {
+
+    .navigation {
+        justify-content: flex-start;
+        align-items: flex-start;
+        position: absolute;
+    }
+
+    .navigation__list {
+        display: none;
+        flex-direction: column;
+        padding: 14px;
+        width: 100%;
+        height: 100vh;
+    }
+
+    .navigation__list--visible {
+        display: flex;
+    }
+
+    .navigation__item {
+        padding: 14px 0 14px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.322);
+    }
+
+    .navigation__switcher {
+        display: block;
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        border: none;
+        background: none;
+        font-size: 28px;
+        color: #353535;
+    }
+
+    .navigation__switcher--white {
+        color: #fff;
+
+    }
+
+    .navigation__switcher--hidden {
+        display: none;
+    }
+}
+
+@media (max-width: 390px) {
+    .site-header__title {
+        font-size: 48px;
+    }
+}

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="post">
+        <header class="post__header">
+            <a class="post__category" href="#">{{ page.categories }}</a>
+            <h2 class="post__title">{{ page.title }}</h2>
+            <p class="post__date">{{ page.date | date: "%d/%m/%Y" }}</p>
+            <!-- <div class="post__image-box">
+                <img class="post__image" src="{{ post.image }}"
+                    alt="Zdjęcie ilustrujące post o Cross Duathlon Gdańsk">
+            </div> -->
+        </header>
+        <div class="post__content">{{ content }}</div>
+</article>
