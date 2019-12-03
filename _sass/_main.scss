@@ -182,6 +182,7 @@ blockquote {
 .pagination {
     display: flex;
     justify-content: center;
+    margin: 15px;
 }
 
 .pagination__item {
@@ -329,7 +330,9 @@ blockquote {
 }
 
 @media (max-width: 640px) {
-
+    iframe {
+        max-width: 100%;
+    }
     .navigation {
         justify-content: flex-start;
         align-items: flex-start;
