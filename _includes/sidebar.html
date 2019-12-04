@@ -7,7 +7,11 @@
             <p class="author__description">Autor bloga poruszeni.pl. Wielbiciel podróży, wszelkich forma
                 aktywności, a przede wszystkim ostrego MTB po terenach Trójmiejskiego Parku Krajobrazowego. W
                 wolnych chwilach rozwija swoje umiejętności w zakresie programowania.</p>
-            <a class="author__link" href="#">Więcej o mnie</a>
+            <div class="social-links">
+                <i class="fab fa-facebook-square social-links__item"></i>
+                <i class="fab fa-youtube-square social-links__item"></i>
+                <i class="fab fa-github-square social-links__item"></i>
+            </div>
         </section>
     </div>
 
@@ -15,11 +19,10 @@
         <section class="categories">
             <h2 class="widget__title">Kategorie</h2>
             <ul class="categories__list">
-                <li class="categories__item"><a class="categories__link" href="#">Bieganie</a></li>
-                <li class="categories__item"><a class="categories__link" href="#">Rower</a></li>
-                <li class="categories__item"><a class="categories__link" href="#">Duathlon</a></li>
-                <li class="categories__item"><a class="categories__link" href="#">Wycieczki</a></li>
-                <li class="categories__item"><a class="categories__link" href="#">Testy sprzętu</a></li>
+                    {% for category in site.categories %}
+                    <li class="categories__item"><a class="categories__link" href="../{{ category[0]/}}">{{ category[0] | capitalize }}</a></li>
+                    {% endfor %}
+                
             </ul>
         </section>
     </div>

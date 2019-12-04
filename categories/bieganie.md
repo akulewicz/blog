@@ -1,9 +1,10 @@
 ---
 layout: default
+permalink: /bieganie/
 ---
 <div class="posts">
-        {%- for post in paginator.posts -%}
-                <article class="post">
+        {%- for post in site.categories.bieganie -%}
+        <article class="post">
                     <header class="post__header">
                         <a class="post__category" href="#">{{ post.categories }}</a>
                         <h2 class="post__title">{{ post.title }}</h2>

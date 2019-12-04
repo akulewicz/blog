@@ -111,7 +111,7 @@ blockquote {
     text-transform: uppercase;
     text-decoration: none;
     font-size: 14px;
-    color: #CE9175;
+    color: $brown;
     margin-bottom: 16px;
 }
 
@@ -163,7 +163,7 @@ blockquote {
 }
 
 .post__link {
-    background-color: #ce9175;
+    background-color: $brown;
     color: #fff;
     padding: 12px 16px;
     text-transform: uppercase;
@@ -176,7 +176,7 @@ blockquote {
 }
 
 .post__link:hover {
-    background-color: #000;
+    background-color:$darkbrown;
 }
 
 .pagination {
@@ -243,21 +243,36 @@ blockquote {
     text-align: center;
     line-height: 150%;
     font-size: 14px;
-    margin: 0 0 32px 0;
+    margin: 0 0 16px 0;
 }
 
 .author__link {
     padding: 10px 15px;
-    border: 1px solid #353535;
-    color: #353535;
+    border: 1px solid $darkbrown;
+    color: $darkbrown;
     text-transform: uppercase;
     font-size: 14px;
     text-decoration: none;
 }
 
 .author__link:hover {
-    color: #CE9175;
-    border: 1px solid #CE9175;
+    color: $brown;
+    border: 1px solid $brown;
+}
+
+.social-links {
+    display: flex;
+}
+
+.social-links__item {
+    font-size: 40px;
+    padding: 10px;
+    color: $brown;
+    transition: 0.5s;
+}
+
+.social-links__item:hover {
+    color: $darkbrown;
 }
 
 .categories__list {
@@ -276,7 +291,7 @@ blockquote {
 }
 
 .categories__link:hover {
-    color: #CE9175;
+    color: $brown;
 }
 
 .gallery__photos {
