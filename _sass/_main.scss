@@ -89,7 +89,7 @@ blockquote {
 }
 
 .main {
-    width: 840px;
+    width: 800px;
     padding: 0 56px 0 0;
 }
 
@@ -199,7 +199,7 @@ blockquote {
 }
 
 .sidebar {
-    width: 300px;
+    width: 340px;
 }
 
 .widget {
@@ -303,6 +303,40 @@ blockquote {
 
 .gallery__img {
     width: 100%;
+    float: left;
+}
+
+.last-posts__list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding-left: 0;
+}
+
+.last-posts__item {
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+    border-bottom: 1px solid rgb(241, 241, 241);
+}
+
+.last-posts__image {
+    width: 80px;
+    height: 60px;
+    padding-right: 10px;
+    float: left;
+}
+
+.last-posts__link {
+    padding: 0;
+    color: #666;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.last-posts__link:hover {
+    color: $brown;
 }
 
 .site-footer {

@@ -8,9 +8,9 @@
                 aktywności, a przede wszystkim ostrego MTB po terenach Trójmiejskiego Parku Krajobrazowego. W
                 wolnych chwilach rozwija swoje umiejętności w zakresie programowania.</p>
             <div class="social-links">
-                <i class="fab fa-facebook-square social-links__item"></i>
-                <i class="fab fa-youtube-square social-links__item"></i>
-                <i class="fab fa-github-square social-links__item"></i>
+                <a href="https://www.facebook.com/poruszeni/"><i class="fab fa-facebook-square social-links__item"></i></a>
+                <a href="https://www.youtube.com/user/kulabwo/"><i class="fab fa-youtube-square social-links__item"></i></a>
+                <a href="https://github.com/akulewicz"><i class="fab fa-github-square social-links__item"></i></a>
             </div>
         </section>
     </div>
@@ -21,6 +21,18 @@
             <ul class="categories__list">
                     {% for category in site.categories %}
                     <li class="categories__item"><a class="categories__link" href="../{{ category[0]/}}">{{ category[0] | capitalize }}</a></li>
+                    {% endfor %}
+                
+            </ul>
+        </section>
+    </div>
+
+    <div class="widget">
+        <section class="last-posts">
+            <h2 class="widget__title">Najnowsze wpisy</h2>
+            <ul class="last-posts__list">
+                    {% for post in site.posts limit:5 %}
+                    <li class="last-posts__item"><img class="last-posts__image" src="../{{ post.image }}"><a class="last-posts__link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
                     {% endfor %}
                 
             </ul>
