@@ -28,18 +28,18 @@ blockquote {
     justify-content: center;
     align-items: center;
     height: 70vh;
-    background-image: url('https://cdn.pixabay.com/photo/2017/08/06/12/06/people-2591874_960_720.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.1),rgba(0, 0, 0, 0.7)), url('./images/background.jpg');
     background-size: cover;
     background-position: center;
     margin-bottom: 80px;
 }
 
 .site-header__title {
-    background-color: rgba(0, 0, 0, 0.253);
+    // background-color: rgba(0, 0, 0, 0.253);
     width: 100%;
     font-family: 'Roboto Slab', serif;
     text-align: center;
-    font-size: 58px;
+    font-size: 78px;
     padding: 15px 0;
 }
 
@@ -332,7 +332,7 @@ blockquote {
     color: #666;
     font-weight: 500;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .last-posts__link:hover {
@@ -382,6 +382,10 @@ blockquote {
     iframe {
         max-width: 100%;
     }
+
+    .site-header__title {
+        font-size: 58px;
+    } 
     .navigation {
         justify-content: flex-start;
         align-items: flex-start;

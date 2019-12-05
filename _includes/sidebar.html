@@ -34,7 +34,6 @@
                     {% for post in site.posts limit:5 %}
                     <li class="last-posts__item"><img class="last-posts__image" src="../{{ post.image }}"><a class="last-posts__link" href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
                     {% endfor %}
-                
             </ul>
         </section>
     </div>

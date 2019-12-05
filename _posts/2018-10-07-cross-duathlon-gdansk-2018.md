@@ -17,7 +17,7 @@ Kiedy pierwszy raz zobaczyłem info o Cross Duathlonie, dystans biegowy wzbudzi�
 
 Wystartowaliśmy o 11:00. Nie mając pojęcia, co jestem w stanie wycisnąć ze swojego organizmu, zająłem miejsce pod koniec strefy startowej. I to był mój pierwszy taktyczny błąd, który pozbawił mnie cennych sekund. Tak, jak wcześniej wspomniałem, pierwsze 2 kilometry trasy biegowej stanowił podbieg. Konsekwencją tego był długi sznurek zawodników, których mózgi chciały biec szybciej, ale nogi odmawiały współpracy.
 
-![Zdjęcie ilustrujące etap biegowy](/assets/images/crossduathlon2018/crossduathlon2018_02.jpg){: .post__image}
+![Zdjęcie ilustrujące etap biegowy](/assets/images/crossduathlon2018/crossduathlon2018_02.jpg){: .post__image}*Na podbiegu było trochę gęsto. Fot. Dawid Linkowski / Gdański Ośrodek Sportu*
 
 W takich warunkach wyprzedzanie było bardzo utrudnione i musiałem mocno kombinować, żeby przesunąć się w stawce chociaż o kilka pozycji. Mniej więcej w połowie trasy trochę się rozluźniło i można było delikatnie przyspieszyć, tym bardziej, że ostatnie 2 kilometry było praktycznie cały czas z górki. Po 24 min 33 sek.  zameldowałem się w strefie zmian. 
 
@@ -25,7 +25,7 @@ W takich warunkach wyprzedzanie było bardzo utrudnione i musiałem mocno kombin
 
 Wizyta w strefie zmian zajęła mi prawie 2,5 minuty. Trochę długo, ale po raz kolejny przyszło mi płacić frycowe za nieprzemyślaną taktykę. Jednak miałem nadzieję, że na rowerze uda mi się nadrobić stracony czas. Trasę przejechałem wcześniej w ramach treningów, więc wiedziałem czego mogę się spodziewać. Pierwsza część to dosyć długi podjazd, który mniej doświadczonych kolarzy zmuszał do zejścia z roweru. A że było dosyć wąsko, to takie zatory uniemożliwiały jakiekolwiek większe szarże. Polak mądry po szkodzie, ale na przyszłość będę wiedział, żeby unikać podjeżdżania w grupie. Bo nawet jeżeli człowiek ma trochę pary w nogach, to wykorzystanie jej w takich warunkach jest praktycznie niemożliwie. Mniej więcej na wysokości Owczarni udało mi się uwolnić od “maruderów” i podłączyłem się pod grupę chłopaków, jeżdżących mniej więcej na moim poziomie. I tak w miły towarzystwie dokończyliśmy pierwszą i drugą pętlę.
 
-![Zdjęcie ilustrujące etap rowerowy](/assets/images/crossduathlon2018/crossduathlon2018_04.jpg){: .post__image}
+![Zdjęcie ilustrujące etap rowerowy](/assets/images/crossduathlon2018/crossduathlon2018_04.jpg){: .post__image}*fot. Gdański Ośrodek Sportu*
 
 Podobnie, jak to miało miejsce podczas biegania, brak doświadczenia spowodował, że na etapie rowerowym straciłem cenne minuty. Zapas mocy był, ale przez szkolne błędy nie miałem sposobności go wykorzystać. Trochę szkoda, ale był to mój pierwszy start w zawodach MTB, więc drobnych błędów nie dało się uniknąć. Etap rowerowy ukończyłem w 48 min 35 sek.
 
@@ -33,7 +33,7 @@ Podobnie, jak to miało miejsce podczas biegania, brak doświadczenia spowodowa�
 
 Tym razem wizyta w strefie zmian zajęła mi niecałe dwie minuty. Rower odstawiony, kask powieszony na kierownicy, zmiana butów i ogień. Tylko, że już na początku podbiegu ogień trochę przygasł. Pamiętałem ze startu w Triathlon Gdańsk, że bieganie po rowerze działa specyficznie na nogi. W przypadku tych zawodów, działało jeszcze bardziej specyficznie, ponieważ wspinanie się 2 km pod górę różni się znacząco od biegu po płaskich alejkach Parku Reagana :) Jedyne co mnie pocieszało to świadomość, że innym jest równie ciężko. Mało było chętnych do wyprzedzania, a gumowe nogi powodowały, że niektórym odechciewało się biegania. Ja postanowiłem walczyć do końca i nawet udało mi się wyprzedzić kilka osób. Ale już nie było tak przyjemnie jak podczas pierwszego etapu. Całe szczęście, że ostatnie 2 kilometry były z górki, bo w mojej głowie zaczęły pojawiać się myśli typu “a po cholerę mi to?”.
 
-![Zdjęcie z finishu](/assets/images/crossduathlon2018/crossduathlon2018.jpg){: .post__image}
+![Zdjęcie z finishu](/assets/images/crossduathlon2018/crossduathlon2018.jpg){: .post__image}*Ostanie metry przed metą. Fot. Dawid Linkowski / Gdański Ośrodek Sportu*
 
 Kiedy wbiegłem na ostatnią prostą i zobaczyłem linię mety, postanowiłem wykrzesać z siebie resztki sił i trochę przyspieszyć. Po kilkusetmetrowym finiszu przekroczyłem linię mety. Tym razem etap biegowy zajął mi 26min. 44 sek., a całe zawody ukończyłem w 1 godz. 44 min. 09 sek. 
 

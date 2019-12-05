@@ -5,7 +5,7 @@ layout: default
         {%- for post in paginator.posts -%}
                 <article class="post">
                     <header class="post__header">
-                        <a class="post__category" href="#">{{ post.categories }}</a>
+                        <a class="post__category" href="../{{ post.categories }}">{{ post.categories }}</a>
                         <h2 class="post__title">{{ post.title }}</h2>
                         <p class="post__date">{{ post.date | date: "%d/%m/%Y" }}</p>
                         <div class="post__image-box">
