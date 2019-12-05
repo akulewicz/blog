@@ -9,16 +9,16 @@
     {% else %}
     <meta property="og:title" content="{{ site.title }}">
     {% endif %}
-    {% if page.description %}
+    {% if page.intro %}
     <meta property="og:description" content="{{ page.intro }}">
     {% else %}
     <meta property="og:description" content="Blog o bieganiu, rowerach i wędrówkach. Opisy treningów, relacje z zawodów, trasy biegowe i rowerowe oraz testy sprzętu">
     {% endif %}
 
-    <meta property="og:url" content="https://frosty-visvesvaraya-47f590.netlify.com/">
+    <meta property="og:url" content="https://frosty-visvesvaraya-47f590.netlify.com/{{ page.url }}">
 
-    {% if post.image %}
-    <meta property="og:image" content="https://frosty-visvesvaraya-47f590.netlify.com/{{ post.image }}">
+    {% if page.image %}
+    <meta property="og:image" content="https://frosty-visvesvaraya-47f590.netlify.com/{{ page.image }}">
     {% else %}
     <meta property="og:image" content="https://frosty-visvesvaraya-47f590.netlify.com/assets/images/cover.png">
     {% endif %}
