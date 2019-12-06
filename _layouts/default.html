@@ -1,33 +1,36 @@
 <!DOCTYPE html>
 <html lang="pl">
 
- {%- include head.html -%}
+{%- include head.html -%}
 
 <body>
     <header class="site-header">
         <nav class="navigation">
             <ul class="navigation__list navigation__list--js">
-                <li class="navigation__item"><a class="navigation__link" href="#">Strona główna</a></li>
-                <li class="navigation__item"><a class="navigation__link" href="#">O blogu</a></li>
-                <li class="navigation__item"><a class="navigation__link" href="#">Inny link</a></li>
+                <li class="navigation__item"><a class="navigation__link" href="{{'/'}}">Strona główna</a></li>
+                {% for category in site.categories %}
+                <li class="navigation__item"><a class="navigation__link"
+                        href="../{{ category[0]}}">{{ category[0] | capitalize }}</a></li>
+                {% endfor %}
             </ul>
         </nav>
         <button class="navigation__switcher navigation__switcher--js" aria-label="Otwórz menu"><i
                 class="fas fa-bars"></i></button>
-        <h1 id="top" class="site-header__title"><a class="site-header__link" href="{{ '/' | relative_url }}">Poruszeni.pl</a></h1>
+        <h1 id="top" class="site-header__title"><a class="site-header__link"
+                href="{{ '/' | relative_url }}">Poruszeni.pl</a></h1>
     </header>
     <div class="container">
         <main class="main">
-        
-                {{ content }}
-           
+
+            {{ content }}
+
         </main>
         {%- include sidebar.html -%}
     </div>
-    <a href="#top" class="top-button"><i class="far fa-arrow-alt-circle-up"></i></a>
+    <a href="#top" class="top-button" aria-label="Przewiń do góry"><i class="far fa-arrow-alt-circle-up"></i></a>
     {%- include footer.html -%}
-    <script src="js/script.js"></script>
-    <script id="dsq-count-scr" src="//EXAMPLE.disqus.com/count.js" async></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <script id="dsq-count-scr" src="//poruszeni-pl.disqus.com/count.js" async></script>
 </body>
 
 </html>

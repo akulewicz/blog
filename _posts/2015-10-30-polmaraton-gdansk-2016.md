@@ -4,6 +4,7 @@ title:  "Relacja z AmberExpo Półmaraton Gdańsk"
 date:   2015-10-30 19:00:43 +0100
 categories: bieganie
 image: 'assets/images/polmaratongdansk2015/polmaratongdansk2015.png'
+image_alt: 'Zdjęcie z trasy AmberExpo Półmaraton Gdańsk'
 intro: "Niby każde dziecko wie, że spotkanie na drodze misia nie wróży niczego dobrego. Jednak mało kto ma okazję przekonać się o tym na własnej skórze. Mi się to udało. I to nie w lesie, nie w górach, a podczas II AmberExpo Półmaraton Gdańsk.
 
 Półmaraton Gdańsk to stosunkowo młoda impreza. Pierwsza edycja odbyła się w zeszłym roku. Debiut zawodów okazał się bardzo udany, a impreza zebrała wysokie noty wśród startujących. Niestety, pomimo tego, że miałem opłacone wpisowe, że planowałem powalczyć o rekord na dystansie półmaratonu, z powodu kontuzji musiałem odpuścić udział w biegu. Jednak obiecałem sobie, że w przyszłym roku nie dam za wygraną i wystartuję w tych zawodach."

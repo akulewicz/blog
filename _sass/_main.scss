@@ -67,7 +67,7 @@ blockquote {
 }
 
 .navigation__item {
-    padding-right: 25px;
+    padding: 0 30px;
 }
 
 .navigation__link {
@@ -75,6 +75,14 @@ blockquote {
     color: #fff;
     text-transform: uppercase;
     font-weight: 500;
+    font-size: 0.9rem;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.navigation__link:hover {
+    border-bottom: 2px solid white;
 }
 
 .navigation__switcher {
@@ -125,7 +133,7 @@ blockquote {
 
 .post__date {
     font-size: 14px;
-    color: rgb(152, 152, 152);
+    color: #595959;
     text-transform: uppercase;
 }
 
@@ -282,7 +290,7 @@ blockquote {
 
 .categories__item {
     padding: 12px 0;
-    border-bottom: 1px solid rgb(230, 230, 230);
+    border-bottom: 1px solid $lightgrey;
 }
 
 .categories__link {
@@ -317,17 +325,17 @@ blockquote {
     display: flex;
     align-items: center;
     padding: 12px 0;
-    border-bottom: 1px solid rgb(241, 241, 241);
+    border-bottom: 1px solid $lightgrey;
 }
 
 .last-posts__image {
     width: 80px;
     height: auto;
     padding-right: 10px;
-    float: left;
 }
 
 .last-posts__link {
+    flex: 1;
     padding: 0;
     color: #666;
     font-weight: 500;
@@ -387,6 +395,7 @@ blockquote {
         font-size: 58px;
     } 
     .navigation {
+        z-index: 0;
         justify-content: flex-start;
         align-items: flex-start;
         position: absolute;

@@ -4,6 +4,7 @@ title:  "Relacja z Cross Duathlon Gdańsk 2018"
 date:   2018-10-07 18:45:43 +0100
 categories: duathlon
 image: 'assets/images/crossduathlon2018/crossduathlon2018_03.jpg'
+image_alt: 'Zdjęcie numeru startowego z Cross Duathlon Gdańsk 2018'
 intro: "5 km biegu, 17 km jazdy rowerem, 5 km biegu. Kiedy po raz pierwszy wpadła mi w oko informacja, że na takim to właśnie śmiesznym dystansie odbędzie się w Gdańsku Cross Duathlon, pomyślałem sobie – to coś dla mnie. Jednak już pierwszy rekonesans trasy uzmysłowił mi, że te zawody to nie będzie jednak taka bułka z masłem."
 ---
 

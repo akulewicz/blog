@@ -4,6 +4,7 @@ title:  "56. Bieg Westerplatte - come back poruszeni.pl"
 date:   2018-09-30 16:00:43 +0100
 categories: bieganie
 image: 'assets/images/biegwesterplatte2018/biegwesterplatte2018_01.jpg'
+image_alt: 'Zdjęcie z trasy 56 Biegu Westerplatte'
 intro: "Prawie 3,5 tys. osób wystartowało w 56. Biegu Westerplatte. Wśród tego tłumu znalazłem się i ja. Niby nic niezwykłego, ale dla mnie to w pewnym sensie wydarzenie przełomowe, bo zamyka pewien okres walki z najtrudniejszym przeciwnikiem, czyli samy sobą. A więc miejcie się baczności – poruszeni.pl wracają! Zanim przejdę do Biegu Westerplatte, pozwolę sobie na kilka zdań wyjaśnienia. Jeżeli ktoś tutaj jeszcze zagląda, to z pewnością zauważył, że aktywność na stronie jest zerowa (ostatni wpis pojawił się 10 kwietnia 2016r.). Szczerze przyznam, że tragiczny poziom aktywności “twórczej” był wprost proporcjonalny do poziomu aktywności sportowej. "
 ---
 

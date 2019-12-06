@@ -4,6 +4,7 @@ title:  "1. PZU Gdańsk Maraton, czyli droga przez mękę"
 date:   2015-05-18 18:01:43 +0100
 categories: bieganie
 image: 'assets/images/pzugdanskmaraton2015/pzumaraton01.jpg'
+image_alt: "Zdjęcie ilustrujące relację z 1 PZU Gdańsk Maraton"
 intro: "42,195 km do przebiegnięcia, ponad 1 800 biegaczy na mecie, wzorowa organizacja, urokliwa trasa oraz biegowy karnawał na ulicach Gdańska – te 137 znaków wystarczy, aby opisać to, co działo się podczas wczorajszego 1. PZU Gdańsk Maraton. Cieszę się, że to właśnie podczas tego biegu mogłem oficjalnie ukończyć zawody na królewskim dystansie."
 ---
 

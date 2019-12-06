@@ -9,7 +9,7 @@ layout: default
                         <h2 class="post__title">{{ post.title }}</h2>
                         <p class="post__date">{{ post.date | date: "%d/%m/%Y" }}</p>
                         <div class="post__image-box">
-                            <img class="post__image post__image--featured" src="../{{ post.image }}">
+                            <img class="post__image post__image--featured" src="../{{ post.image }}" alt="{{ post.image_alt }}">
                         </div>
                     </header>
                     <p class="post__content">{{ post.intro }}</p>

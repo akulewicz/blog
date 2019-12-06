@@ -4,6 +4,7 @@ title:  "Powrót na stare śmieci"
 date:   2019-11-09 18:01:43 +0100
 categories: bieganie
 image: 'assets/images/biegbraniewo/biegbraniewo.jpg'
+image_alt: 'Zdjęcie z trasy biegu po okolicach Braniewa'
 intro: "Kilka miesięcy temu postanowiłem, że spróbuję swoich sił w dłuższych biegach terenowych. Oczywiście nie mam na myśli jakiś 100 kilometrowych biegów górskich, a raczej lokalne zawody na dystansie do 50 kilometrów. Jako człowiek czynu od razu przystąpiłem do realizacji pomysłu i zapisałem się na dwa biegi. Na przetarcie wybrałem grudniowy Garmin Ultra Race 2019 na dystansie 27 km. Natomiast docelowym startem na najbliższe miesiące jest odbywający się pod koniec lutego Trójmiejski Ultra Track na dystansie 42 km. Dopełniłem wszelkich formalności, wpłaciłem wpisowe, więc 75% pracy zostało wykonane. Pozostałe 25% to trening, czyli bułka z masłem. Trochę się pobiega i będzie ok."
 ---
 

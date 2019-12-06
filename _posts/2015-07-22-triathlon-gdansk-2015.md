@@ -4,6 +4,7 @@ title:  "Triathlon Gdańsk 2015"
 date:   2015-07-22 20:02:45 +0100
 categories: triathlon
 image: 'assets/images/triathlongdansk2015/triathlongdansk04.jpg'
+image_alt: 'Zdjęcie z etapu biegowego Triathlon Gdańsk'
 intro: "Ponad 500 osób stanęło na starcie Triathlon Gdańsk 2015, który odbył się 19 lipca. Uczestnicy zawodów mieli do pokonania dystans 1/4 Ironman’a, czyli 950 metrów pływania, 45 kilometrów jazdy rowerem oraz 10,55 kilometra biegu. Wskutek splotu dziwnych zdarzeń i okoliczności wśród kandydatów na „Człowieka z żelaza” (a właściwie 1/4 „Człowieka z żelaza”) znalazłem się i ja."
 ---
 ![Zawodnicy na starcie](/assets/images/triathlongdansk2015/triathlongdansk02.jpg){: .post__image}
