@@ -5,12 +5,12 @@ date:   2019-12-08 12:01:43 +0100
 categories: bieganie
 image: 'assets/images/gur2019/gur.jpg'
 image_alt: 'Numer startowy i medal z biegu Garmin Ultra Race'
-intro: "Wspominałem ostatnio o moich planach startowych na najbliższe miesiące. Przypomnę, że pierwszą pozycją w moim kalendarzu startowym był Garmin Ultra Race na dystansie 27 km. Wybór dystansu nie był przypadkowy, ponieważ te 27 km to nie tyle dużo, żeby się zajechać, ale wystarczającą, żeby sprawdzić, na jakim poziomie wytrenowania jestem. Bieg ukończony, diagnoza postawiona – jesz jak świnka, to kwiczysz jak świnka."
+intro: "Wspominałem ostatnio o moich planach startowych na najbliższe miesiące. Przypomnę, że pierwszą pozycją w moim kalendarzu startowym był Garmin Ultra Race na dystansie 27 km. Wybór dystansu nie był przypadkowy, ponieważ te 27 km to nie tyle dużo, żeby się zajechać, ale wystarczająco, żeby sprawdzić, na jakim poziomie wytrenowania jestem. Bieg ukończony, diagnoza postawiona – jesz jak świnka, to kwiczysz jak świnka."
 ---
 
 ![Numer startowy i medal z Garmin Ultra Track](/assets/images/gur2019/gur.jpg){: .post__image}
 
-Wspominałem ostatnio o moich planach startowych na najbliższe miesiące. Przypomnę, że pierwszą pozycją w moim kalendarzu startowym był Garmin Ultra Race na dystansie 27 km. Wybór dystansu nie był przypadkowy, ponieważ te 27 km to nie tyle dużo, żeby się zajechać, ale wystarczającą, żeby sprawdzić, na jakim poziomie wytrenowania jestem. Bieg ukończony, diagnoza postawiona – jesz jak świnka, to kwiczysz jak świnka.
+Wspominałem ostatnio o moich planach startowych na najbliższe miesiące. Przypomnę, że pierwszą pozycją w moim kalendarzu startowym był Garmin Ultra Race na dystansie 27 km. Wybór dystansu nie był przypadkowy, ponieważ te 27 km to nie tyle dużo, żeby się zajechać, ale wystarczająco, żeby sprawdzić, na jakim poziomie wytrenowania jestem. Bieg ukończony, diagnoza postawiona – jesz jak świnka, to kwiczysz jak świnka.
 
 Pakiet startowy odebrałem już w piątek wieczorem. Wszystko poszło sprawnie, jedynie w pakiecie brakowało obiecanej koszulki. Ale zanim zdążyłem o nią zapytać, Pani wydająca pakiety – jakby czytająca w myślach – wyjaśniła, że koszulki będą do odebrania jutro po biegu. No to ok, widzimy się jutro. Wróciłem do domu, zjadłem jedną kolację, później drugą kolację, wypiłem izotonik, trochę mleka i jeszcze zjadłem batona – tak na wszelki wypadek, żeby mi energii nie zabrakło. Po tym miksie żywieniowy położyłem się spać.
 

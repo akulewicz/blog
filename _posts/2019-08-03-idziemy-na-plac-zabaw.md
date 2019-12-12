@@ -24,7 +24,7 @@ Więc w jaki sposób pogodzić potrzeby syna i taty? To proste – można iść 
 
 ![Zdjęcie szałasu w lesie](/assets/images/spacertpk/spacertpk_9.jpg){: .post__image}*Odkryliśmy dom Leśnych Ludzi*
 
-![Zdjęcie Olka](/assets/images/spacertpk/spacertpk_12.jpg){: .post__image}*Uśmiech na twarzy dzieck :)*
+![Zdjęcie Olka](/assets/images/spacertpk/spacertpk_12.jpg){: .post__image}*Uśmiech na twarzy dziecka :)*
 
 ![Arek i Olek podczas spaceru](/assets/images/spacertpk/spacertpk_7.jpg){: .post__image}*Było super!*
 
