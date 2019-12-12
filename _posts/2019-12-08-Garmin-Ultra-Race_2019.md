@@ -4,7 +4,7 @@ title:  "Relacja z Garmin Ultra Race Gdańsk 2019"
 date:   2019-12-08 12:01:43 +0100
 categories: bieganie
 image: 'assets/images/gur2019/gur.jpg'
-image_alt: 'Numer startowy i medal z biegu Garmin Ultra Track'
+image_alt: 'Numer startowy i medal z biegu Garmin Ultra Race'
 intro: "Wspominałem ostatnio o moich planach startowych na najbliższe miesiące. Przypomnę, że pierwszą pozycją w moim kalendarzu startowym był Garmin Ultra Race na dystansie 27 km. Wybór dystansu nie był przypadkowy, ponieważ te 27 km to nie tyle dużo, żeby się zajechać, ale wystarczającą, żeby sprawdzić, na jakim poziomie wytrenowania jestem. Bieg ukończony, diagnoza postawiona – jesz jak świnka, to kwiczysz jak świnka."
 ---
 
