@@ -6,6 +6,7 @@ categories: bieganie
 image: 'assets/images/gur2019/gur.jpg'
 image_alt: 'Numer startowy i medal z biegu Garmin Ultra Race'
 intro: "Wspominałem ostatnio o moich planach startowych na najbliższe miesiące. Przypomnę, że pierwszą pozycją w moim kalendarzu startowym był Garmin Ultra Race na dystansie 27 km. Wybór dystansu nie był przypadkowy, ponieważ te 27 km to nie tyle dużo, żeby się zajechać, ale wystarczająco, żeby sprawdzić, na jakim poziomie wytrenowania jestem. Bieg ukończony, diagnoza postawiona – jesz jak świnka, to kwiczysz jak świnka."
+permalink: /garmin-ultra-race-2019/
 ---
 
 ![Numer startowy i medal z Garmin Ultra Track](/assets/images/gur2019/gur.jpg){: .post__image}
