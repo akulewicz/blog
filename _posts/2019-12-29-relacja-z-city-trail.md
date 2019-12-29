@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "City Trail, czyli wchodzimy na szybsze obroty"
-date:   2019-12-22 19:01:43 +0100
+title:  "City Trail, czyli wchodzimy na wyższe obroty"
+date:   2019-12-29 21:01:43 +0100
 categories: bieganie
 image: 'assets/images/citytrail122019/citytrail01.jpg'
 image_alt: 'Uczestnicy biegu City Trail'
