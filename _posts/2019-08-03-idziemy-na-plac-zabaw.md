@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Idziemy na plac zabaw - sztuka kompromisu"
+title:  "Idziemy na plac zabaw, czyli sztuka kompromisu"
 date:   2019-08-03 16:12:43 +0100
 categories: wycieczki
-image: '/assets/images/spacertpk/spacertpk_16.jpg'
+image: 'assets/images/spacertpk/spacertpk_16.jpg'
 image_alt: 'Olek i tata podczas spaceru po Trójmiejskim Parku Krajobrazowym'
 intro: "Obudził nas piękny, sobotni poranek. Od razu pomyślałem, że warto wykorzystać ten wspaniały dzień i wyskoczyć z Olkiem na spacer. Tylko wystąpił mały problem. Mianowicie syn, w przeciwieństwie do taty, średnio lubi „bezsensowne” wędrówki po lesie. Wyjście na plac zabaw, czy kopanie piłki na boisku - to jest coś. A długie spacery? Nuda!"
 ---
