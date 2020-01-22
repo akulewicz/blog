@@ -2,7 +2,7 @@
 layout: post
 title:  "Recenzja zegarka Suunto 5 - mały, ale wariat"
 date:   2020-01-22 18:43:09 +0100
-categories: sprzęt
+categories: testy
 image: 'assets/images/tpk25km/tpk25_4.jpg'
 image_alt: 'Zegarek Suunto 5'
 intro: "Czy można kupić zegarek treningowy, który będzie miał dobry GPS, wytrzymałą baterię, funkcje nawigacyjne, tryb multisport i nie będzie kosztował fortuny? Okazuje się, że pomimo ogromnej oferty zegarków na rynku, znalezienie spełniającego wszystkie powyższe kryteria nie jest takie proste. Jedną z propozycji takiego urządzenia jest Suunto 5."
