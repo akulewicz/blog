@@ -56,6 +56,17 @@ Jeżeli chodzi o dokładność zapisanego śladu, to jest naprawdę dobrze. Nie 
 
 Suunto 5 nie jest wyposażony w barometr. Do pomiaru wysokości używa sygnału GPS. W dobrych warunkach pomiar wysokości z GPS jest prawidłowy, jednak trzeba zdawać sobie sprawę z możliwych przekłamań. Dla mnie wskazania wysokości z GPS są wystarczające. Jeżeli jednak komuś zależy na mega dokładnym pomiarze wysokości, to powinien rozważyć zakup innego zegarka, np. Suunto 9 Baro. 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7839356536985731"
+     data-ad-slot="6621057908"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Realizując poszczególne treningi częściej skupiam się na własnym odczuciu, niż pomiarach tętna. Jednak pokusiłem się o porównanie tętna z nadgarstka oraz tętna z pasa, sparowanego z zegarkiem Garmin 310xt. W większości przypadków, chwilowe wskazania tętna podczas treningu, były do siebie bardzo zbliżone. Różnice występowały podczas gwałtownej zmiany tempa - optyczny czujnik tętna w “piątce” reagował zdecydowanie wolniej. Zauważyłem również, że “piątka” jest mniej dokładna podczas treningów w ujemnych temperaturach, ale to chyba jedna z przypadłości  optycznego pomiaru tętna, występująca nie tylko w przypadku zegarków fińskiego producenta. Dlatego jeżeli komuś zależy na idealnych wskazaniach tętna podczas interwałów, to raczej polecam pasek na klatę. W przypadku pozostałych zastosowań pomiar z nadgarstka jest zadowalający.
 
 ## Funkcje nawigacyjne
