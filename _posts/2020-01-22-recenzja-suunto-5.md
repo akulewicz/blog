@@ -16,6 +16,8 @@ Przyszedł czas na zmianę zegarka sportowego. Na zakup nowego towarzysza trenin
 
 Po analizie rynku oraz przeczytaniu setek recenzji i komentarzy swój wybór ograniczyłem do czterech modeli. Były to Garmin 735xt, Coros Pace, Polar Vantage M oraz Suunto 5. Garmin 735xt to sprawdzony zegarek, ale jego wadą jest kiepska bateria. Coros Pace oraz Garmin Vantage M to nowsze konstrukcje, wyposażone w rewelacyjne baterie, ale nie oferują możliwości prowadzenia po śladzie. W pewnym momencie zastanawiałem się również nad starszą, ale bardzo dobrze ocenianą konstrukcją, jaką jest Suunto Ambit 3 Peak. Jednak szukałem zegarka na lata, więc wolałem nie ryzykować z zakupem sprzętu, który już wkrótce może stracić wsparcie producenta. Dlatego ostatecznie zdecydowałem się na zegarek fińskiego producenta, czyli Suunto 5. Tym bardziej, że trafiłem na dobrą promocję i zakupiłem go za kwotę dużo niższą od założonej. 
 
+[Sprawdź, gdzie najtaniej kupisz zegarek Suunto 5](https://www.ceneo.pl/81558053#crid=313851&pid=21224){: .post__hyperlink}
+
 ## Wygląd zegarka i ekran
 
 Pierwsze wrażenie po rozpakowaniu “piątki” było jak najbardziej pozytywne. Suunto 5 to zegarek, który można zaliczyć do grona urządzeń kompaktowych. Jego wymiary docenią w szczególności osoby o mniejszych rękach oraz wszyscy ci, którzy nie lubią wielkich zegarków w stylu Suunto 9. Ale “lepiej zbudowani” też będa zadowoleni - ja mam 183 cm wzrostu oraz 87 kg wagi i uważam, że na moim ręku zegarek wygląda naprawdę dobrze.
