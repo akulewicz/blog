@@ -5,12 +5,12 @@ date:   2020-01-22 18:43:09 +0100
 categories: testy
 image: 'assets/images/tpk25km/tpk25_4.jpg'
 image_alt: 'Zegarek Suunto 5'
-intro: "Czy można kupić zegarek treningowy, który będzie miał dobry GPS, wytrzymałą baterię, funkcje nawigacyjne, tryb multisport i nie będzie kosztował fortuny? Okazuje się, że pomimo ogromnej oferty zegarków na rynku, znalezienie spełniającego wszystkie powyższe kryteria nie jest takie proste. Jedną z propozycji takiego urządzenia jest Suunto 5."
+intro: "Czy można kupić zegarek treningowy, który będzie miał dobry GPS, wytrzymałą baterię, funkcje nawigacyjne, tryb multisport i nie będzie kosztował fortuny? Okazuje się, że pomimo ogromnej oferty zegarków na rynku, znalezienie spełniającego wszystkie powyższe kryteria nie jest takie proste. Jedną z propozycji takiego urządzenia jest zegarek Suunto 5."
 ---
 
 ![Suunto 5 z ekranem podsumowania danych treningowych](/assets/images/tpk25km/tpk25_4.jpg){: .post__image}
 
-Czy można kupić zegarek treningowy, który będzie miał dobry GPS, wytrzymałą baterię, funkcje nawigacyjne, tryb multisport i nie będzie kosztował fortuny? Okazuje się, że pomimo ogromnej oferty zegarków na rynku, znalezienie spełniającego wszystkie powyższe kryteria nie jest takie proste. Jedną z propozycji takiego urządzenia jest Suunto 5.
+Czy można kupić zegarek treningowy, który będzie miał dobry GPS, wytrzymałą baterię, funkcje nawigacyjne, tryb multisport i nie będzie kosztował fortuny? Okazuje się, że pomimo ogromnej oferty zegarków na rynku, znalezienie spełniającego wszystkie powyższe kryteria nie jest takie proste. Jedną z propozycji takiego urządzenia jest zegarek Suunto 5.
 
 Przyszedł czas na zmianę zegarka sportowego. Na zakup nowego towarzysza treningów postanowiłem przeznaczyć maksymalnie 1500 zł. Założenie było takie, że będę wykorzystywał go głównie do treningów biegowych, z perspektywą startów w biegach ultra. Nie wykluczam również startów w duathlonach i triathlonach, więc zegarek musiał być wodoszczelny oraz umożliwiać korzystanie z trybu multisport. Duże znaczenie miała wytrzymała bateria, jak najdokładniejszy GPS oraz wbudowane funkcje nawigacyjne. Miłym akcentem byłby barometr, służący do pomiaru wysokości. Ale byłem w stanie poświęcić go dla paru stówek oszczędności.
 
@@ -24,7 +24,7 @@ Pierwsze wrażenie po rozpakowaniu “piątki” było jak najbardziej pozytywne
 
 Jakość materiałów, z których wykonany jest zegarek, jest na wysokim poziomie. Cechą charakterystyczną “piątki” jest wyciągnięta na zewnątrz antena GPS, która została umieszona na sztywnym elemencie, znajdującym się poniżej koperty. Takie rozwiązanie było stosowane w kultowym Suunto Ambit 3 Peak, którego premiera miała miejsce kilka lat temu. Wiele osób uważa te rozwiązanie za archaiczne, wpływające negatywnie na wizualny odbiór zegarka. Dla mnie wyciągnięta na zewnątrza antena nie umniejsza jego atrakcyjności. A jeżeli zastosowanie tego rozwiązania wpływa na poprawę dokładności działania modułu GPS, to jestem jak najbardziej za. Na spodzie zegarka umieszczony został optyczny czujnik tętna i port ładowania. Całość uzupełnia solidny, wygodny, aczkolwiek łapiący kurz pasek.
 
-Ważną informacją jest fakt, że **Suunto 5 jest zegarkiem wodoszczelnym**. Jego wodoszczelność określano na 50 m, więc można bez obaw używać go do treningów pływackich.
+Ważną informacją jest fakt, że **Suunto 5 jest zegarkiem wodoszczelnym**. Jego wodoszczelność określano na 50 m, więc można bez obaw używać go do treningów pływackich. Wodoszczelność oraz tryb multisport powodują, że Suunto 5 sprawdzi się jako zegarek triathlonowy.
 
 Zastosowany przez Suunto wyświetlacz uważam za jedną ze słabszych stron tego zegarka. Pomijam fakt, że zajmuje naprawdę mało miejsca w stosunku do wielkości frontu zegarka. Ale jego rozdzielczość, jakość podświetlenia i komfort użytkowania w trudnych warunkach wrażenia nie robi. Korzystałem wcześniej z Garmin 310XT oraz kosztującego ok. 400 zł Amazfit Pace i było dużo lepiej. 
 
