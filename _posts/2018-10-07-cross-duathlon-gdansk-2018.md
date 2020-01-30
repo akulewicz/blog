@@ -6,7 +6,7 @@ categories: duathlon
 image: 'assets/images/crossduathlon2018/crossduathlon2018_03.jpg'
 image_alt: 'Zdjęcie numeru startowego z Cross Duathlon Gdańsk 2018'
 intro: "5 km biegu, 17 km jazdy rowerem, 5 km biegu. Kiedy po raz pierwszy wpadła mi w oko informacja, że na takim to właśnie śmiesznym dystansie odbędzie się w Gdańsku Cross Duathlon, pomyślałem sobie – to coś dla mnie. Jednak już pierwszy rekonesans trasy uzmysłowił mi, że te zawody to nie będzie jednak taka bułka z masłem."
-permalink: /crossduathlon-gdansk-2019/
+
 ---
 
 Cross Duathlon Gdańsk odbył się 6 października 2018 roku. Start i meta zostały ulokowane w urokliwej Dolinie Czystej Wody, czyli całkiem blisko mojego miejsca zamieszkania. Najprostszym sposobem dostania się na miejsce było przejechanie rowerem kilku kilometrów przez las. Ale postanowiłem jechać samochodem i wykorzystać okazję, żeby sprawdzić, czy mój rower mieści się w bagażniku (spokojnie mieści się). Na miejscu byłem trochę przed 9:00, dzięki czemu uniknąłem problemów ze znalezieniem miejsca parkingowego. Już około 9:30 odebrałem pakiet startowy i wstawiłem rower do strefy zmian. Do startu pozostało jeszcze prawie 1,5 godz. które wykorzystałem na przebranie się i rozgrzewkę.  
