@@ -102,7 +102,7 @@ Wracając do kwestii podsumowania aktywności, to wielkim plusem jest ilość in
 
 Oczywiście, aplikacja Suunto ma również małe minusy, czego przykładem może być brak możliwości zaplanowania w niej treningu interwałowego. A byłoby to dużo bardziej wygodne, niż robienie tego z poziomu zegarka. 
 
-## Podsumowanie
+## Podsumowanie - moja opinia o Suunto 5
 
 Suunto 5 to zegarek warty uwagi. Na uwagę zasługuje dokładny GPS, bardzo dobra bateria, tryb multisport, dziesiątki dostępnych sportów, adaptacyjne plany treningowe, funkcje nawigacyjne oraz przejrzysta aplikacja, dostarczająca wszelkie możliwe informacje dot. naszych treningów. 
 
