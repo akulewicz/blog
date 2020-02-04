@@ -22,13 +22,13 @@ Start biegu został zaplanowany na polanie, znajdującej się na samym końcu ul
 
 ![Podbieg na starcie TUT21](/assets/images/trasatut21/trasatut_2.jpg){: .post__image}*Podbieg na starcie TUT21 - widok z góry*
 
-Na kilku pierwszych kilometrach trasa jest mało wymagająca. Przez większą część tego odcinka jest raczej płasko. Trasa została poprowadzona popularnymi i urokliwymi drogami. Biegnąc tym fragmentem miniemy Lipnicką Drogę, Niedźwiedzią Dolinę, Rezerwat Wąwóz Huzarów, Samborowo oraz Szwedzką Groblę. Na odcinku tym są w zasadzie tylko dwa podbiegi. Jednak nikomu nie powinny sprawić większych trudności. 
+Na kilku pierwszych kilometrach trasa jest mało wymagająca. Przez większą część tego odcinka jest raczej płasko. Trasa została poprowadzona popularnymi i urokliwymi drogami. Biegnąc tym fragmentem miniemy Lipnicką Drogę, Niedźwiedzią Dolinę, Rezerwat Wąwóz Huzarów, Samborowo oraz Szwedzką Groblę. Na odcinku tym są w zasadzie tylko dwa podbiegi. Jednak nikomu nie powinny sprawić większych trudności. Na ok. 8,5 km skręcamy ze Szwedzkiej Grobli w lewo i kierujemy się w stronę niebieskiego szlaku.
 
 ![Niebieski szlak](/assets/images/trasatut21/trasatut_3.jpg){: .post__image}*Ten odcinek trasy to czysta przyjemność*
 
 ![Scięte drzewa](/assets/images/trasatut21/trasatut_4.jpg){: .post__image}*Martwa natura w wykonaniu Lasów Państwowych*
 
-Na ok. 9 kilometrze, dobiegamy do ul. Bytowskiej, a następnie skręcamy w leśny odcinek niebieskiego szlaku. Początkowy fragment tego odcinka to krótki, ale ostry podbieg. Dalej jest trochę przyjemniej, ale trzeba mieć się na baczności, bo jest sporo błota. 
+Na ok. 9 kilometrze, dobiegamy w okolice ul. Bytowskiej, a następnie skręcamy w leśny odcinek niebieskiego szlaku. Początkowy fragment tego odcinka to krótki, ale ostry podbieg. Dalej jest trochę przyjemniej, ale trzeba mieć się na baczności, bo jest sporo błota. 
 
 ![Błoto na niebieskim szlaku](/assets/images/trasatut21/trasatut_6.jpg){: .post__image}*Błoto na niebieskim szlaku to efekt prac prowadzonych przy wycince drzew w TPK*
 
