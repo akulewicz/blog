@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wycieczka biegowa po trasie TUT21"
+title:  "TUT 21 - sprawdź, czego możesz spodziewać się na trasie"
 date:   2020-02-04 12:11:06 +0100
 categories: bieganie
 image: 'assets/images/trasatut21/trasatut_5.jpg'
