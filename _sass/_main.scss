@@ -13,6 +13,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #353535;
     font-weight: normal;
+    background-color: rgb(253, 253, 253);
 }
 
 blockquote {
@@ -28,14 +29,13 @@ blockquote {
     justify-content: center;
     align-items: center;
     height: 70vh;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.1),rgba(0, 0, 0, 0.7)), url('./images/background.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.5)), url('./images/background1.jpg');
     background-size: cover;
     background-position: center;
     margin-bottom: 80px;
 }
 
 .site-header__title {
-    // background-color: rgba(0, 0, 0, 0.253);
     width: 100%;
     font-family: 'Roboto Slab', serif;
     text-align: center;
@@ -50,29 +50,31 @@ blockquote {
 
 .navigation {
     z-index: 5;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position: fixed;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.815);
+    background-color: rgb(255, 255, 255);
     width: 100%;
+    border: 1px solid $lightgrey;
 }
 
 .navigation__list {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
     list-style: none;
     display: flex;
-    padding: 0;
+    justify-content: flex-end;
+    padding: 15px;
 }
 
 .navigation__item {
-    padding: 0 30px;
+    padding: 15px 0 15px 25px;;
 }
 
 .navigation__link {
     text-decoration: none;
-    color: #fff;
+    color: grey;;
     text-transform: uppercase;
     font-weight: 500;
     font-size: 0.9rem;
@@ -82,7 +84,7 @@ blockquote {
 }
 
 .navigation__link:hover {
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid grey;
 }
 
 .navigation__switcher {
@@ -401,12 +403,14 @@ blockquote {
         justify-content: flex-start;
         align-items: flex-start;
         position: absolute;
+        background-color: rgba(0, 0, 0, 0.815);
     }
 
     .navigation__list {
         display: none;
         flex-direction: column;
-        padding: 14px;
+        justify-content: flex-start;
+        padding: 60px 14px;
         width: 100%;
         height: 100vh;
     }
@@ -418,6 +422,11 @@ blockquote {
     .navigation__item {
         padding: 14px 0 14px 0;
         border-bottom: 1px solid rgba(255, 255, 255, 0.322);
+        
+    }
+
+    .navigation__link {
+        color: white;
     }
 
     .navigation__switcher {
