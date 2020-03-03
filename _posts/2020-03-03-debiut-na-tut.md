@@ -22,7 +22,6 @@ Plan na bieg był następujący: trzymam w miarę równomierne tempo, unikam nie
 
 Zbliżając się do 16 km przygotowywałem się mentalnie do podbiegów na zielonym szlaku. Doskonale wiedziałem, czego mogę się spodziewać. Prosta kalkulacja pokazuje, że w tym miejscu minęło ¾ trasy. Wydawać się może, że na kolejnych 5 kilometrach już nic nie może się zdarzyć. A to właśnie tutaj rozpoczyna się prawdziwa zabawa. Na tym odcinku znajduje się kilka podbiegów i zbiegów. Ich charakterystyczną cechą jest to, że nie są one specjalnie długie. Ale za to są cholernie strome.  
 
-
 <iframe class="post__video" width="560" height="315" src="https://www.youtube.com/embed/rcrEzq2KsdE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Podczas treningów pokonałem ten odcinek kilka razy, więc wiedziałem co mnie czeka oraz jak rozłożyć siły. Do tej pory każde podniesienie rękawic kończyło się zwycięstwem zielonego szlaku. Tym razem było trochę lepiej. Nie powiem, że wygrałem, ale chociaż nie było KO. 
@@ -36,8 +35,10 @@ Ostatecznie zameldowałem się na mecie po 02:21:30, zajmując 93 miejsce (na 28
 Za linią mety na uczestników biegu czekała prawdziwa uczta. Ja skorzystałem z tradycyjnej opcji, czyli kiełbaski, ogniska i piwa. Ale karta dań była dużo bardziej wyszukana. Przy tej okazji muszę przyznać, że pod względem organizacyjnym TUT to zdecydowanie czołówka. Byłem bardzo pozytywnie zaskoczony pakietem startowym, w skład którego wchodził numer startowy i..... tyle. Zero ulotek, marnej jakości technicznych koszulek i tego typu gadżetów. Na pochwałę zasługuje również przygotowanie trasy oraz fantastyczna robota, wykonana przez wolontariuszy. No i wspomniane wyżej miasteczko, w którym zlokalizowana była meta biegu. Całość składa się na naprawdę rewelacyjną imprezę. Dlatego coś mi podpowiada, że wrócę tu za rok. A na jaki dystans? Czas pokaże... 
 
  
-
 [Wyniki TUT 2020](https://protimer.pl/bio/748/tut-2020/results/762){: .post__hyperlink}
+
+Film z trasy autorstwa [GoCarlo](https://www.youtube.com/user/GoCarloTV/featured){: .post__hyperlink}
+
 
  
  
