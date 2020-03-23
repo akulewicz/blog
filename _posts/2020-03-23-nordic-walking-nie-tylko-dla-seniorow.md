@@ -32,6 +32,8 @@ Wydawać się może, że zakup kijów to prosta sprawa. Nic bardziej mylnego! Ki
 
 Jak się w tym wszystkim połapać? Jaki dobrać rozmiar? Jakie kije będą dobre na początek? Można przeczytać dobry poradnik, można skonsultować zakup z trenerem nordic walking, albo po prostu poprosić o poradę doświadczonego sprzedawcę. Ważna uwaga - zdecydowanie proponuję korzystać ze sklepów, które specjalizują się w sprzedaży tego typu sprzętu. Ja skorzystałem z pomocy sklepu [nordicsklep.pl](https://nordicsklep.pl){: .post__hyperlink}, prowadzonego przez Aleksandra Wilanowskiego. Gość ma pojęcie, a jego [kanał na youtube](https://www.youtube.com/channel/UCkqqj4K7pix2e3wLErknanQ){: .post__hyperlink} to prawdziwa skarbnica wiedzy o Nordic Walking. I w ten oto sposób stałem się posiadaczem kijów Leki Flash Carbon.  
 
+[Sprawdź, gdzie najataniej kupisz kije do Nordic Walking](https://www.ceneo.pl/Trekking_i_Nordic_Walking#crid=324996&pid=21224){: .post__hyperlink}
+
 ![Zdjęcie z pierwszego marszu Nordic Walking](/assets/images/nordicwalking032020/nordic_walking02.jpg){: .post__image}
 
 ### Pierwszy marsz
