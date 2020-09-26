@@ -46,6 +46,9 @@ Muszę przyznać, że jazda rowerem szosowym w porównaniu do MTB to zupełnie i
 
 [Pobierz plik GPX](/assets/files/gpx/gdansk_krynica.gpx){: .post__hyperlink}
 
+<div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vQvxZNyeZ96/widget?r=embed-site&url=https://www.relive.cc/view/vQvxZNyeZ96?r=embed-site&image=https://www.relive.cc/view/vQvxZNyeZ96/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
+
+
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4097173730/embed/a77ac695f475b2d720293dcfd603ae158fd15aec'></iframe>
 
 
